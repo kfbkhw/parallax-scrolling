@@ -12,7 +12,7 @@ export default function App() {
 
 const Title = styled.h1`
     width: 100%;
-	padding: 30px;
+    padding: 50px;
     font-size: 40px;
     text-align: center;
     color: #083734;

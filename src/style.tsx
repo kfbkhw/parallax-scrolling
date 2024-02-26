@@ -25,8 +25,9 @@ export const GlobalStyle = createGlobalStyle`
 
 	body {
 		width: 100%;
-		height: 100vh;
-		background-color: #b8e1ee;
+		height: 120vh;
+		background-image: linear-gradient(#b8e1ee 30%, #00110c 30% 100%);
+		background-color: #083734;
 	}
 
 	#root {
